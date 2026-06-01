@@ -1,5 +1,4 @@
 # House Price Prediction
-A supervised machine learning regression model that predicts residential property prices based on features such as structure, location, and different cateogories.
 
 # Overview
 
